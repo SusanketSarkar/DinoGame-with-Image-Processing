@@ -2,7 +2,7 @@
 <img src="https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png" alt="Dino Game" style="align=justify;"/>
 
 
-![](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/example01.gif)
+![image ><](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/example01.gif)
 
 
 
