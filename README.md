@@ -1,5 +1,6 @@
 # <h1 align="center"> DinoGame with Image Processing </h1>
-![](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png)
+<p align = 'center'>
+![](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png) </p>
 
 This project was built using:
 - Python 3.9.6
