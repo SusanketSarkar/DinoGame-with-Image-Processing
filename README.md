@@ -1,7 +1,7 @@
 # <h1 align="center"> DinoGame with Image Processing </h1>
 <img src="https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png" alt="Dino Game" style="float: center;"/>
 
-Here is a preview of the game:
+Here is a preview of the game:<br>
 ![](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/example01.gif)
 
 To run this project and play the game you can 
