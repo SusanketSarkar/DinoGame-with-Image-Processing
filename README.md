@@ -1,5 +1,5 @@
 # <h1 align="center"> DinoGame with Image Processing </h1>
-<img src="[/assets/img/MarineGEO_logo.png](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png)" alt="MarineGEO circle logo" style="align=justify;"/>
+<img src="https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png" alt="MarineGEO circle logo" style="align=justify;"/>
 ![](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png)
 
 This project was built using:
