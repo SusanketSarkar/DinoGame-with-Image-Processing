@@ -1,1 +1,1 @@
-# DinoGame-with-Image-Processing
+# DinoGame with Image Processing
