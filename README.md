@@ -1,8 +1,8 @@
 # <h1 align="center"> DinoGame with Image Processing </h1>
-<img src="https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png" alt="Dino Game" style="align=justify;"/>
+<img src="https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/dinogame.png" alt="Dino Game" style="float: center;"/>
 
 
-![image ><](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/example01.gif)
+![](https://github.com/SusanketSarkar/DinoGame-with-Image-Processing/blob/main/images/example01.gif)
 
 
 
